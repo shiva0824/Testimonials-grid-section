@@ -6,6 +6,4 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 
 ### Links
-
-- Solution URL: (https://github.com/SHIVAPRASAD35/single-price-grid-component-master)
-- Live Site URL: (https://shivaprasad35.github.io/Testimonials-grid-section/)
+- Live Site URL: [https://shiva0824.github.io/Testimonials-grid-section/]
